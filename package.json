@@ -1,0 +1,1 @@
+{"description":"One Word From Your Ex — the word an ex would use to describe you, picked by scoring a shortlist against the judge's brief and validated against the 1–24 character gate.","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"u-brave-eagle-12-one-word-from-your-ex-cfd97ba2","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
